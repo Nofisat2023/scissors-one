@@ -26,7 +26,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+  "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
@@ -50,7 +52,11 @@
     "@testing-library/jest-dom": "^6.4.8",
     "@testing-library/react": "^16.0.0",
     "@types/jest": "^29.5.12",
+    "gh-pages": "^6.1.1",
     "jest": "^29.7.0",
-    "ts-jest": "^29.2.3"
+    "ts-jest": "^29.2.3",
+    "homepage": "http://nofisat2023.github.io/scissors-one/"
   }
 }
+
+
