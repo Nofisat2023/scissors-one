@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.366569c1.css",
-    "main.js": "/static/js/main.8277e323.js",
-    "index.html": "/index.html",
-    "main.366569c1.css.map": "/static/css/main.366569c1.css.map",
-    "main.8277e323.js.map": "/static/js/main.8277e323.js.map"
+    "main.css": "/scissors-one/static/css/main.366569c1.css",
+    "main.js": "/scissors-one/static/js/main.8277e323.js",
+    "index.html": "/scissors-one/index.html",
+    "main.366569c1.css.map": "/scissors-one/static/css/main.366569c1.css.map",
+    "main.8277e323.js.map": "/scissors-one/static/js/main.8277e323.js.map"
   },
   "entrypoints": [
     "static/css/main.366569c1.css",
